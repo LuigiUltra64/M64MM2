@@ -122,89 +122,88 @@
     <value>72, 13</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Gorro/Camisa</value>
+    <value>帽子/衣服</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>28, 13</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Pelo</value>
+    <value>头发</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>24, 13</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Piel</value>
+    <value>皮肤</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
     <value>47, 13</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Guantes</value>
+    <value>手套</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
     <value>49, 13</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Overoles</value>
+    <value>裤子</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
     <value>46, 13</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>Zapatos</value>
+    <value>鞋子</value>
   </data>
   <data name="label7.Text" xml:space="preserve">
-    <value>Principal</value>
+    <value>主色</value>
   </data>
   <data name="label8.Text" xml:space="preserve">
-    <value>Sombra</value>
+    <value>阴影色</value>
   </data>
   <data name="label9.Text" xml:space="preserve">
-    <value>IMPORTANTE: ¡Asegúrate de desactivar TODOS los cód. de color en Project64!
-De lo contrario, los colores que elijas aquí no cambiarán en el juego.</value>
+    <value>注意!在使用本工具修改角色颜色之前，请务必把模拟器中的所有颜色代码（Color Code）都取消打勾！否则马力欧的颜色将会和你所选择的不一致！</value>
   </data>
   <data name="btnLoadFromGame.Text" xml:space="preserve">
-    <value>Cargar del juego</value>
+    <value>从游戏中读取颜色</value>
   </data>
   <data name="btnResetColors.Text" xml:space="preserve">
-    <value>Reiniciar colores</value>
+    <value>原版颜色</value>
   </data>
   <data name="btnExportCode.Text" xml:space="preserve">
-    <value>Exportar c. de col.</value>
+    <value>导出颜色代码</value>
   </data>
   <data name="btnImportCode.Text" xml:space="preserve">
-    <value>Importar c. de col.</value>
+    <value>导入颜色代码</value>
   </data>
   <data name="grpColor.Text" xml:space="preserve">
-    <value>Opciones de color:</value>
+    <value>颜色设置：</value>
   </data>
   <data name="btnRandomizeShading.Text" xml:space="preserve">
-    <value>Aleatorizar ilum.</value>
+    <value>随机阴影</value>
   </data>
   <data name="btnResetShading.Text" xml:space="preserve">
-    <value>Reiniciar iluminación</value>
+    <value>原版阴影</value>
   </data>
   <data name="label13.Text" xml:space="preserve">
-    <value>Delante</value>
+    <value>前</value>
   </data>
   <data name="label14.Text" xml:space="preserve">
-    <value>Arriba</value>
+    <value>上</value>
   </data>
   <data name="label15.Text" xml:space="preserve">
-    <value>Der.</value>
+    <value>右</value>
   </data>
   <data name="label12.Text" xml:space="preserve">
-    <value>Detrás</value>
+    <value>后</value>
   </data>
   <data name="label11.Text" xml:space="preserve">
-    <value>Abajo</value>
+    <value>下</value>
   </data>
   <data name="label10.Text" xml:space="preserve">
-    <value>Izq.</value>
+    <value>左</value>
   </data>
   <data name="grpShading.Text" xml:space="preserve">
-    <value>Herrmiantas de iluminación:</value>
+    <value>阴影设置：</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -504,6 +503,6 @@ De lo contrario, los colores que elijas aquí no cambiarán en el juego.</value>
 </value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Opciones de apariencia</value>
+    <value>颜色设置</value>
   </data>
 </root>

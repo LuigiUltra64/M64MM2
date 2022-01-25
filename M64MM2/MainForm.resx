@@ -141,7 +141,7 @@
     <value>cbAnimOld</value>
   </data>
   <data name="btnAnimReset.Text" xml:space="preserve">
-    <value>Reset</value>
+    <value>恢复</value>
   </data>
   <data name="btnFreeze.Size" type="System.Drawing.Size, System.Drawing">
     <value>130, 25</value>
@@ -171,14 +171,14 @@
     <value>0</value>
   </data>
   <data name="btnUnfreeze.Text" xml:space="preserve">
-    <value>Unfreeze (Ctrl + 2)</value>
+    <value>解锁（Ctrl+2）</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnAnimResetAll.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="lblAnimNew.Text" xml:space="preserve">
-    <value>With this animation:</value>
+    <value>更改为这个动作：</value>
   </data>
   <data name="&gt;&gt;cbCamStyles.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -214,7 +214,7 @@
     <value>grpCamera</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Mario 64 Movie Maker 2.1</value>
+    <value>神游马力欧电影制作器2.1</value>
   </data>
   <data name="&gt;&gt;lblCameraStatus.Name" xml:space="preserve">
     <value>lblCameraStatus</value>
@@ -223,10 +223,10 @@
     <value>NoControl</value>
   </data>
   <data name="btnAnimRestart.Text" xml:space="preserve">
-    <value>Restart Animation</value>
+    <value>恢复原动画</value>
   </data>
   <data name="btnFreeze.Text" xml:space="preserve">
-    <value>Freeze (Ctrl + 1)</value>
+    <value>锁定（Ctrl+1）</value>
   </data>
   <data name="btnUnfreeze.Location" type="System.Drawing.Point, System.Drawing">
     <value>142, 19</value>
@@ -253,10 +253,10 @@
     <value>130, 25</value>
   </data>
   <data name="grpAnimSwap.Text" xml:space="preserve">
-    <value>Animation Swap Controls</value>
+    <value>动作交换</value>
   </data>
   <data name="lblAnimOld.Text" xml:space="preserve">
-    <value>Replace this animation:</value>
+    <value>把这个动作：</value>
   </data>
   <data name="&gt;&gt;grpCamStyle.Name" xml:space="preserve">
     <value>grpCamStyle</value>
@@ -616,7 +616,7 @@
     <value>grpAnimSwap</value>
   </data>
   <data name="btnSoftUnfreeze.Text" xml:space="preserve">
-    <value>Soft-Unfreeze (Ctrl + 5)</value>
+    <value>软解锁（Ctrl+5）</value>
   </data>
   <data name="&gt;&gt;cbAnimNew.Parent" xml:space="preserve">
     <value>grpAnimSwap</value>
@@ -631,7 +631,7 @@
     <value>6, 23</value>
   </data>
   <data name="btnSoftFreeze.Text" xml:space="preserve">
-    <value>Soft-Freeze (Ctrl + 4)</value>
+    <value>软锁定（Ctrl+4）</value>
   </data>
   <data name="&gt;&gt;toolsMenuItem.Name" xml:space="preserve">
     <value>toolsMenuItem</value>
@@ -649,7 +649,7 @@
     <value>grpAnimSwap</value>
   </data>
   <data name="grpCamera.Text" xml:space="preserve">
-    <value>Camera Controls</value>
+    <value>相机设置</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>MainForm</value>
@@ -697,7 +697,7 @@
     <value>7</value>
   </data>
   <data name="btnChangeCamStyle.Text" xml:space="preserve">
-    <value>Apply</value>
+    <value>启用</value>
   </data>
   <data name="&gt;&gt;updateTimer.Name" xml:space="preserve">
     <value>updateTimer</value>
@@ -745,7 +745,7 @@
     <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="btnAnimSwap.Text" xml:space="preserve">
-    <value>Apply</value>
+    <value>启用</value>
   </data>
   <data name="lblAnimOld.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 22</value>
@@ -778,7 +778,7 @@
     <value>NoControl</value>
   </data>
   <data name="aboutMenuItem.Text" xml:space="preserve">
-    <value>&amp;About</value>
+    <value>&amp;关于</value>
   </data>
   <data name="btnUnfreeze.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -787,7 +787,7 @@
     <value>117, 13</value>
   </data>
   <data name="appearanceSettingsMenuItem.Text" xml:space="preserve">
-    <value>&amp;Appearance Settings...</value>
+    <value>&amp;颜色设定</value>
   </data>
   <data name="cbCamStyles.Size" type="System.Drawing.Size, System.Drawing">
     <value>204, 21</value>
@@ -823,7 +823,7 @@
     <value>99, 23</value>
   </data>
   <data name="toolsMenuItem.Text" xml:space="preserve">
-    <value>&amp;Tools</value>
+    <value>&amp;工具</value>
   </data>
   <data name="grpAnimSwap.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 115</value>
@@ -841,7 +841,7 @@
     <value>99, 23</value>
   </data>
   <data name="lblProgramStatus.Text" xml:space="preserve">
-    <value>Status: Project64 isn't open.</value>
+    <value>状态：Project64 没有打开</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -856,7 +856,7 @@
     <value>66, 17</value>
   </data>
   <data name="extraControlsToolStripMenuItem.Text" xml:space="preserve">
-    <value>&amp;Extra Controls...</value>
+    <value>&amp;其他功能</value>
   </data>
   <data name="menuStrip.Size" type="System.Drawing.Size, System.Drawing">
     <value>524, 24</value>
@@ -880,7 +880,7 @@
     <value>1</value>
   </data>
   <data name="lblCameraStatus.Text" xml:space="preserve">
-    <value>Camera State: Default</value>
+    <value>相机状态：默认</value>
   </data>
   <data name="btnFreeze.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -907,7 +907,7 @@
     <value>216, 73</value>
   </data>
   <data name="grpCamStyle.Text" xml:space="preserve">
-    <value>Change Camera Style</value>
+    <value>更改相机形式</value>
   </data>
   <data name="btnAnimSwap.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 73</value>
@@ -991,7 +991,7 @@
     <value>1</value>
   </data>
   <data name="btnAnimResetAll.Text" xml:space="preserve">
-    <value>Reset All</value>
+    <value>全部恢复</value>
   </data>
   <data name="&gt;&gt;lblProgramStatus.Name" xml:space="preserve">
     <value>lblProgramStatus</value>
@@ -1008,22 +1008,22 @@
   <data name="&gt;&gt;lblCameraCode.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <metadata name="updateTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <data name="updateTimer.TrayLocation" type="System.Drawing.Point, System.Drawing">
     <value>234, 17</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  </data>
+  <data name="$this.Localizable" type="System.Boolean, mscorlib">
     <value>True</value>
-  </metadata>
-  <metadata name="menuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  </data>
+  <data name="menuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing">
     <value>17, 17</value>
-  </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  </data>
+  <data name="$this.Locked" type="System.Boolean, mscorlib">
     <value>True</value>
-  </metadata>
-  <metadata name="statusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  </data>
+  <data name="statusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing">
     <value>125, 17</value>
-  </metadata>
-  <metadata name="statusStrip.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  </data>
+  <data name="statusStrip.Locked" type="System.Boolean, mscorlib">
     <value>True</value>
-  </metadata>
+  </data>
 </root>

@@ -122,19 +122,19 @@
     <value>62, 13</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>5 - Más alto</value>
+    <value>5：最高</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>0 - En el suelo</value>
+    <value>0：地面</value>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
-    <value>Levitar a Mario</value>
+    <value>抬升马力欧</value>
   </data>
   <data name="btnRemoveHud.Text" xml:space="preserve">
-    <value>Remover IU</value>
+    <value>移除UI</value>
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
-    <value>Controles Misc.</value>
+    <value>其他功能</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -434,6 +434,6 @@
 </value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Controles extra</value>
+    <value>附加功能</value>
   </data>
 </root>

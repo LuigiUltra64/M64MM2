@@ -165,8 +165,8 @@
     <value>1</value>
   </data>
   <data name="lblAuthor.Text" xml:space="preserve">
-    <value>Created by James "CaptainSwag101" Pelster,
-with help from GlitchyPSI</value>
+    <value>作者： James "CaptainSwag101" Pelster
+开发协助：GlitchyPSI  简体中文翻译：LuigiUltra64</value>
   </data>
   <data name="lblAuthor.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -218,9 +218,9 @@ with help from GlitchyPSI</value>
     <value>3</value>
   </data>
   <data name="lblSpecialThanks.Text" xml:space="preserve">
-    <value>This program is dedicated to the Super Mario 64 Bloopers/Machinima community, thanks for all the effort you've put into your work, and I hope this tool will help you create awesome videos for years to come!
+    <value>本软件是为每一位超级马里奥64恶搞/神游马力欧故事社区的创作者而制作的。我在这里感谢你们在制作作品中付出的努力，也希望这款软件能够帮助你们在未来继续创作优秀的视频！
 
-Special thanks to Matthew "MatthewGU4" Guerra for helping me make this project a reality and for spreading the word!</value>
+特别感谢 Matthew "MatthewGU4" Guerra 帮助我实现这个项目并进行宣传！</value>
   </data>
   <data name="&gt;&gt;lblSpecialThanks.Name" xml:space="preserve">
     <value>lblSpecialThanks</value>
@@ -298,7 +298,7 @@ Special thanks to Matthew "MatthewGU4" Guerra for helping me make this project a
     <value>6</value>
   </data>
   <data name="lblBuildDate.Text" xml:space="preserve">
-    <value>Build Date: May 5th, 2019</value>
+    <value>更新日期：2019年5月5日</value>
   </data>
   <data name="lblBuildDate.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
@@ -325,7 +325,7 @@ Special thanks to Matthew "MatthewGU4" Guerra for helping me make this project a
     <value>7</value>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
-    <value>OK</value>
+    <value>确定</value>
   </data>
   <data name="&gt;&gt;btnOK.Name" xml:space="preserve">
     <value>btnOK</value>
@@ -423,12 +423,12 @@ Special thanks to Matthew "MatthewGU4" Guerra for helping me make this project a
   <data name="&gt;&gt;lnkGithubIssues.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <data name="$this.Localizable" type="System.Boolean, mscorlib">
     <value>True</value>
-  </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  </data>
+  <data name="$this.Locked" type="System.Boolean, mscorlib">
     <value>True</value>
-  </metadata>
+  </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
   </data>
@@ -733,7 +733,7 @@ Special thanks to Matthew "MatthewGU4" Guerra for helping me make this project a
 </value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>About Mario 64 Movie Maker 2.1</value>
+    <value>关于神游马力欧电影制作器2.1</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>AboutForm</value>

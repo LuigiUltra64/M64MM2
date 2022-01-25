@@ -157,7 +157,7 @@
     <value>1</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>5 - Highest</value>
+    <value>5：最高</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -184,7 +184,7 @@
     <value>2</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>0 - On Ground</value>
+    <value>0：地面</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -208,7 +208,7 @@
     <value>3</value>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
-    <value>Levitate Mario</value>
+    <value>抬升马力欧</value>
   </data>
   <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
     <value>groupBox1</value>
@@ -232,7 +232,7 @@
     <value>0</value>
   </data>
   <data name="btnRemoveHud.Text" xml:space="preserve">
-    <value>Remove HUD</value>
+    <value>移除UI</value>
   </data>
   <data name="&gt;&gt;btnRemoveHud.Name" xml:space="preserve">
     <value>btnRemoveHud</value>
@@ -256,7 +256,7 @@
     <value>3</value>
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
-    <value>Misc. Controls</value>
+    <value>其他功能</value>
   </data>
   <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
     <value>groupBox2</value>
@@ -390,9 +390,9 @@
   <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <data name="$this.Localizable" type="System.Boolean, mscorlib">
     <value>True</value>
-  </metadata>
+  </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
   </data>
@@ -697,7 +697,7 @@
 </value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Extra Controls</value>
+    <value>附加功能</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>ExtraControlsForm</value>

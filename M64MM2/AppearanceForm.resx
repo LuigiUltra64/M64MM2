@@ -143,7 +143,7 @@
     <value>47, 13</value>
   </data>
   <data name="label7.Text" xml:space="preserve">
-    <value>Main</value>
+    <value>主色</value>
   </data>
   <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
     <value>11</value>
@@ -249,7 +249,7 @@
     <value>114, 188</value>
   </data>
   <data name="label11.Text" xml:space="preserve">
-    <value>Bottom</value>
+    <value>下</value>
   </data>
   <data name="&gt;&gt;label10.Name" xml:space="preserve">
     <value>label10</value>
@@ -258,7 +258,7 @@
     <value>grpColor</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Hair</value>
+    <value>头发</value>
   </data>
   <data name="hatColorShade.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -427,13 +427,13 @@
     <value>MiddleRight</value>
   </data>
   <data name="grpShading.Text" xml:space="preserve">
-    <value>Shading Settings:</value>
+    <value>阴影设置：</value>
   </data>
   <data name="label15.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
   </data>
   <data name="grpColor.Text" xml:space="preserve">
-    <value>Color Settings:</value>
+    <value>颜色设置：</value>
   </data>
   <data name="marioSprite.Size" type="System.Drawing.Size, System.Drawing">
     <value>192, 256</value>
@@ -445,7 +445,7 @@
     <value>label12</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Gloves</value>
+    <value>手套</value>
   </data>
   <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 77</value>
@@ -457,7 +457,7 @@
     <value>3</value>
   </data>
   <data name="label12.Text" xml:space="preserve">
-    <value>Back</value>
+    <value>后</value>
   </data>
   <data name="skinColorShade.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -520,7 +520,7 @@
     <value>label9</value>
   </data>
   <data name="btnResetColors.Text" xml:space="preserve">
-    <value>Reset Colors</value>
+    <value>原版颜色</value>
   </data>
   <data name="&gt;&gt;marioSprite.Parent" xml:space="preserve">
     <value>$this</value>
@@ -559,7 +559,7 @@
     <value>True</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Hat/Clothes</value>
+    <value>帽子/衣服：</value>
   </data>
   <data name="&gt;&gt;tbLeftRight.Parent" xml:space="preserve">
     <value>grpShading</value>
@@ -601,7 +601,7 @@
     <value>grpShading</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>Pants</value>
+    <value>裤子</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
     <value>114, 128</value>
@@ -964,7 +964,7 @@
     <value>btnLoadFromGame</value>
   </data>
   <data name="label8.Text" xml:space="preserve">
-    <value>Shading</value>
+    <value>阴影色</value>
   </data>
   <data name="&gt;&gt;grpShading.Parent" xml:space="preserve">
     <value>$this</value>
@@ -994,7 +994,7 @@
     <value>34, 13</value>
   </data>
   <data name="btnImportCode.Text" xml:space="preserve">
-    <value>Import Color Code</value>
+    <value>导入颜色代码</value>
   </data>
   <data name="&gt;&gt;hairColorShade.ZOrder" xml:space="preserve">
     <value>10</value>
@@ -1033,7 +1033,7 @@
     <value>111, 23</value>
   </data>
   <data name="btnExportCode.Text" xml:space="preserve">
-    <value>Export Color Code</value>
+    <value>导出颜色代码</value>
   </data>
   <data name="&gt;&gt;label2.Parent" xml:space="preserve">
     <value>grpColor</value>
@@ -1042,7 +1042,7 @@
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Skin</value>
+    <value>皮肤</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>AppearanceForm</value>
@@ -1060,7 +1060,7 @@
     <value>grpColor</value>
   </data>
   <data name="btnLoadFromGame.Text" xml:space="preserve">
-    <value>Load From Game</value>
+    <value>从游戏中读取颜色</value>
   </data>
   <data name="&gt;&gt;tbBackFront.Name" xml:space="preserve">
     <value>tbBackFront</value>
@@ -1102,7 +1102,7 @@
     <value>7</value>
   </data>
   <data name="label13.Text" xml:space="preserve">
-    <value>Front</value>
+    <value>前</value>
   </data>
   <data name="&gt;&gt;tbLeftRight.Name" xml:space="preserve">
     <value>tbLeftRight</value>
@@ -1132,7 +1132,7 @@
     <value>grpColor</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>Shoes</value>
+    <value>鞋子</value>
   </data>
   <data name="&gt;&gt;label7.Name" xml:space="preserve">
     <value>label7</value>
@@ -1168,10 +1168,10 @@
     <value>5</value>
   </data>
   <data name="label15.Text" xml:space="preserve">
-    <value>Right</value>
+    <value>右</value>
   </data>
   <data name="btnResetShading.Text" xml:space="preserve">
-    <value>Reset Shading</value>
+    <value>原版阴影</value>
   </data>
   <data name="label14.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -1207,7 +1207,7 @@
     <value>3</value>
   </data>
   <data name="label10.Text" xml:space="preserve">
-    <value>Left</value>
+    <value>左</value>
   </data>
   <data name="&gt;&gt;btnImportCode.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -1258,8 +1258,7 @@
     <value>464, 437</value>
   </data>
   <data name="label9.Text" xml:space="preserve">
-    <value>IMPORTANT: Make sure to DISABLE all color codes in Project64!
-Otherwise, Mario's colors won't match the ones you pick here.</value>
+    <value>注意!在使用本工具修改角色颜色之前，请务必把模拟器中的所有颜色代码（Color Code）都取消打勾！否则马力欧的颜色将会和你所选择的不一致！</value>
   </data>
   <data name="btnResetColors.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -1271,13 +1270,13 @@ Otherwise, Mario's colors won't match the ones you pick here.</value>
     <value>grpColor</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Appearance Settings</value>
+    <value>颜色设置</value>
   </data>
   <data name="&gt;&gt;colorDialog.Name" xml:space="preserve">
     <value>colorDialog</value>
   </data>
   <data name="btnRandomizeShading.Text" xml:space="preserve">
-    <value>Randomize Shading</value>
+    <value>随机阴影</value>
   </data>
   <data name="&gt;&gt;label5.Name" xml:space="preserve">
     <value>label5</value>
@@ -1364,7 +1363,7 @@ Otherwise, Mario's colors won't match the ones you pick here.</value>
     <value>23</value>
   </data>
   <data name="label14.Text" xml:space="preserve">
-    <value>Top</value>
+    <value>上</value>
   </data>
   <data name="hatColorShade.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 24</value>
@@ -1387,19 +1386,19 @@ Otherwise, Mario's colors won't match the ones you pick here.</value>
   <data name="&gt;&gt;label14.Name" xml:space="preserve">
     <value>label14</value>
   </data>
-  <metadata name="colorDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <data name="colorDialog.TrayLocation" type="System.Drawing.Point, System.Drawing">
     <value>17, 17</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  </data>
+  <data name="$this.Language" type="System.Globalization.CultureInfo, mscorlib">
     <value>es</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  </data>
+  <data name="$this.Localizable" type="System.Boolean, mscorlib">
     <value>True</value>
-  </metadata>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  </data>
+  <data name="$this.Locked" type="System.Boolean, mscorlib">
     <value>True</value>
-  </metadata>
-  <metadata name="randomizerTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  </data>
+  <data name="randomizerTimer.TrayLocation" type="System.Drawing.Point, System.Drawing">
     <value>131, 17</value>
-  </metadata>
+  </data>
 </root>

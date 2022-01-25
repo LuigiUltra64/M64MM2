@@ -122,76 +122,76 @@
     <value>220, 22</value>
   </data>
   <data name="appearanceSettingsMenuItem.Text" xml:space="preserve">
-    <value>Herramientas de &amp;Apariencia</value>
+    <value>&amp;颜色设定</value>
   </data>
   <data name="extraControlsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>220, 22</value>
   </data>
   <data name="extraControlsToolStripMenuItem.Text" xml:space="preserve">
-    <value>Controles &amp;Extra...</value>
+    <value>&amp;其他功能</value>
   </data>
   <data name="toolsMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>90, 20</value>
   </data>
   <data name="toolsMenuItem.Text" xml:space="preserve">
-    <value>&amp;Herramientas</value>
+    <value>&amp;工具</value>
   </data>
   <data name="aboutMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>71, 20</value>
   </data>
   <data name="aboutMenuItem.Text" xml:space="preserve">
-    <value>&amp;Acerca de</value>
+    <value>&amp;关于</value>
   </data>
   <data name="btnSoftUnfreeze.Text" xml:space="preserve">
-    <value>Desc. Ligero (Ctrl + 5)</value>
+    <value>软解锁（Ctrl+5）</value>
   </data>
   <data name="btnSoftFreeze.Text" xml:space="preserve">
-    <value>Cong. Ligero(Ctrl + 4)</value>
+    <value>软锁定（Ctrl+4）</value>
   </data>
   <data name="btnUnfreeze.Text" xml:space="preserve">
-    <value>Descongelar (Ctrl + 2)</value>
+    <value>解锁（Ctrl+2）</value>
   </data>
   <data name="btnFreeze.Text" xml:space="preserve">
-    <value>Congelar (Ctrl + 1)</value>
+    <value>锁定（Ctrl+1）</value>
   </data>
   <data name="grpCamera.Text" xml:space="preserve">
-    <value>Controles de cámara</value>
+    <value>相机设置</value>
   </data>
   <data name="lblCameraStatus.Text" xml:space="preserve">
-    <value>Cámara: Por defecto</value>
+    <value>相机状态：默认</value>
   </data>
   <data name="btnAnimRestart.Text" xml:space="preserve">
-    <value>Re-reproducir</value>
+    <value>恢复原动画</value>
   </data>
   <data name="btnAnimResetAll.Text" xml:space="preserve">
-    <value>Reiniciar todas</value>
+    <value>全部恢复</value>
   </data>
   <data name="btnAnimReset.Text" xml:space="preserve">
-    <value>Reiniciar</value>
+    <value>恢复</value>
   </data>
   <data name="btnAnimSwap.Text" xml:space="preserve">
-    <value>Aplicar</value>
+    <value>启用</value>
   </data>
   <data name="lblAnimNew.Size" type="System.Drawing.Size, System.Drawing">
     <value>103, 13</value>
   </data>
   <data name="lblAnimNew.Text" xml:space="preserve">
-    <value>Con esta animación:</value>
+    <value>更改为这个动作：</value>
   </data>
   <data name="lblAnimOld.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 13</value>
   </data>
   <data name="lblAnimOld.Text" xml:space="preserve">
-    <value>Reemplazar esta animación:</value>
+    <value>把这个动作：</value>
   </data>
   <data name="grpAnimSwap.Text" xml:space="preserve">
-    <value>Controles de cambio de animación</value>
+    <value>动作交换</value>
   </data>
   <data name="btnChangeCamStyle.Text" xml:space="preserve">
-    <value>Aplicar</value>
+    <value>启用</value>
   </data>
   <data name="grpCamStyle.Text" xml:space="preserve">
-    <value>Cambio de estilo de cámara</value>
+    <value>更改相机形式</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -489,5 +489,8 @@
         neP/JZ3j/7D/AACAHwAAwAAAAKAAAAAQAAAAAAYAAIAGAADABwAA/AMAAPABAADwAAAA8AAAAPgIAAD4
         AAAA/BgAAP/4AAA=
 </value>
+  </data>
+  <data name="lblProgramStatus.Text" xml:space="preserve">
+    <value>状态：Project64 没有打开</value>
   </data>
 </root>

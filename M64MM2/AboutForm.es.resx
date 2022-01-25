@@ -122,16 +122,17 @@
     <value>334, 40</value>
   </data>
   <data name="lblAuthor.Text" xml:space="preserve">
-    <value>Creado por James "CaptainSwag101" Pelster,
-con ayuda de GlitchyPSI</value>
+    <value>作者： James "CaptainSwag101" Pelster
+开发协助：GlitchyPSI
+简体中文翻译：LuigiUltra64</value>
   </data>
   <data name="lblSpecialThanks.Size" type="System.Drawing.Size, System.Drawing">
     <value>500, 78</value>
   </data>
   <data name="lblSpecialThanks.Text" xml:space="preserve">
-    <value>Este programa está dedicado a la comunidad de Machinima/Bloopers de Super Mario 64, gracias por todo el esfuerzo que has puesto en tu trabajo, ¡y espero que esta herramienta te ayude a crear vídeos increíbles por los siguientes años!
+    <value>This program is dedicated to the Super Mario 64 Bloopers/Machinima community, thanks for all the effort you've put into your work, and I hope this tool will help you create awesome videos for years to come!
 
-¡Gracias especiales a Matthew "MatthewGU4" Guerra por ayudarme a hacer este proyecto una realidad y compartirlo!</value>
+Special thanks to Matthew "MatthewGU4" Guerra for helping me make this project a reality and for spreading the word!</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="lblBugReport.AutoSize" type="System.Boolean, mscorlib">
@@ -144,7 +145,7 @@ con ayuda de GlitchyPSI</value>
     <value>500, 28</value>
   </data>
   <data name="lblBugReport.Text" xml:space="preserve">
-    <value>¿Hallaste algún error, necesitas ayuda, o quieres recomendar una función? Contáctanos de la siguiente manera:</value>
+    <value>如果您遇到bug或问题，或是想提议新的功能，您可以联系：</value>
   </data>
   <data name="lnkEmail.Location" type="System.Drawing.Point, System.Drawing">
     <value>27, 276</value>
@@ -153,7 +154,7 @@ con ayuda de GlitchyPSI</value>
     <value>155, 324</value>
   </data>
   <data name="lblBuildDate.Text" xml:space="preserve">
-    <value>Construido el: 6 de agosto del 2017</value>
+    <value>Build Date: May 5th, 2019</value>
   </data>
   <data name="btnOK.Location" type="System.Drawing.Point, System.Drawing">
     <value>230, 340</value>
@@ -162,7 +163,7 @@ con ayuda de GlitchyPSI</value>
     <value>86, 302</value>
   </data>
   <data name="lblLicenseInfo.Text" xml:space="preserve">
-    <value>Este programa está bajo la licencia GNU General Public License versión 3.</value>
+    <value>This program is licensed under the GNU General Public License, version 3.</value>
   </data>
   <data name="lnkDiscord.Location" type="System.Drawing.Point, System.Drawing">
     <value>206, 276</value>
@@ -174,7 +175,7 @@ con ayuda de GlitchyPSI</value>
     <value>86, 13</value>
   </data>
   <data name="lnkGithubIssues.Text" xml:space="preserve">
-    <value>Issues de Github</value>
+    <value>Github Issues</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
     <value>524, 375</value>
@@ -477,6 +478,6 @@ con ayuda de GlitchyPSI</value>
 </value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Acerca de Mario 64 Movie Maker 2.1</value>
+    <value>关于神游马力欧电影制作器2.1</value>
   </data>
 </root>

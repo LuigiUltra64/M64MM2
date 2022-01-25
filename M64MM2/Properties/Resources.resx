@@ -118,44 +118,44 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="animDataNotLoaded" xml:space="preserve">
-    <value>Animation data not loaded!</value>
+    <value>动作数据未载入！</value>
   </data>
   <data name="cameraDataNotLoaded" xml:space="preserve">
-    <value>Camera data not loaded!</value>
+    <value>相机数据未载入！</value>
   </data>
   <data name="cameraStateDefault" xml:space="preserve">
-    <value>Camera State: Default</value>
+    <value>相机状态：默认</value>
   </data>
   <data name="cameraStateFrozen" xml:space="preserve">
-    <value>Camera State: Frozen</value>
+    <value>相机状态：锁定</value>
   </data>
   <data name="cameraStateSoftFrozen" xml:space="preserve">
-    <value>Camera State: Soft-Frozen</value>
+    <value>相机状态：软锁定</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="CC_Mario_big" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\M64MM2 CC Mario big.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="colorCodeExportMsg" xml:space="preserve">
-    <value>Here's your generated color code:</value>
+    <value>这是生成的颜色代码：</value>
   </data>
   <data name="colorCodeImportMsg" xml:space="preserve">
-    <value>Please paste your color code below, then click OK.</value>
+    <value>请在下方粘贴您的颜色代码，并点击确定。</value>
   </data>
   <data name="invalidColorCodeMsg1" xml:space="preserve">
-    <value>Invalid color code: line {0} is too {1}.</value>
+    <value>无效的颜色代码：第{0}行太{1}了。</value>
   </data>
   <data name="invalidColorCodeMsg2" xml:space="preserve">
-    <value>Invalid color code: line {0} is trying to edit memory address {1}, which is not where Mario's color data is located. Make sure you're not using a PAL region color code!</value>
+    <value>颜色代码不正确。第{0}行的代码试图尝试修改并非马力欧颜色信息的RAM地址{1}。请确保您使用的不是欧版的颜色代码！</value>
   </data>
   <data name="invalidColorCodeMsgLong" xml:space="preserve">
-    <value>long</value>
+    <value>长</value>
   </data>
   <data name="invalidColorCodeMsgShort" xml:space="preserve">
-    <value>short</value>
+    <value>短</value>
   </data>
   <data name="invalidColorCodeMsgTitle" xml:space="preserve">
-    <value>Invalid Color Code</value>
+    <value>颜色代码无效</value>
   </data>
   <data name="M64MM2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\M64MM2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -164,10 +164,10 @@
     <value>..\Resources\M64MM2 Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="programStatus1" xml:space="preserve">
-    <value>Status: Project64 is not open.</value>
+    <value>状态：Project64 没有打开。</value>
   </data>
   <data name="programStatus2" xml:space="preserve">
-    <value>Status: Base address not found.</value>
+    <value>状态：基准地址未找到。</value>
   </data>
   <data name="M64MM2_New" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\M64MM2 New.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -179,31 +179,30 @@
     <value>..\Resources\M64MM2 New Icon 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="invalidAnimSelected" xml:space="preserve">
-    <value>You have entered an invalid animation name into {0}. Please make sure to choose a valid option from the list.</value>
+    <value>您在{0}中输入的动作名称无效。请从列表中选择一个支持的动作。</value>
   </data>
   <data name="discordInvite" xml:space="preserve">
     <value>comet.glitchypsi.xyz</value>
   </data>
   <data name="programName" xml:space="preserve">
-    <value>M64MM</value>
+    <value>神游马力欧电影制作器</value>
   </data>
   <data name="programStatus3" xml:space="preserve">
-    <value>Status: Base address found at </value>
+    <value>状态：基准地址已找到，位于：</value>
   </data>
   <data name="programStatusAwaitingLevel" xml:space="preserve">
-    <value>Status: Waiting for level. Base addr. found at:</value>
+    <value>状态：正在等待关卡基准地址。地址位置：</value>
   </data>
   <data name="setDefaultColorsMsg" xml:space="preserve">
-    <value>Set these colors as default?</value>
+    <value>要将这些颜色设置为默认吗？</value>
   </data>
   <data name="setDefaultColorsMsgTitle" xml:space="preserve">
-    <value>Set defaults?</value>
+    <value>设为默认？</value>
   </data>
   <data name="colorCodeEmptyRom" xml:space="preserve">
-    <value>...This ROM has no model data.
-It won't work.</value>
+    <value>…这个ROM没有模型数据。工具无法生效。</value>
   </data>
   <data name="colorCodeModdedRom" xml:space="preserve">
-    <value>This ROM has a different model data compared to Mario's usual model data. The Color Code Studio and Shading Editor have been disabled; they might not work correctly in this ROM.</value>
+    <value>这个ROM和标准的马力欧模型不一样。颜色代码制作器和阴影编辑器已经被停用，因为它们可能无法在此ROM上正常使用。</value>
   </data>
 </root>
